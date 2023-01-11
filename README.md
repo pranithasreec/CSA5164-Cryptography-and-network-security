@@ -19,6 +19,10 @@
 # Output:
 ![image](https://user-images.githubusercontent.com/113974992/211566296-2adade17-e6e8-48bb-a9a4-9781ab0662a0.png)
 
+# 6)DES
+# Output:
+![image](https://user-images.githubusercontent.com/113974992/211759200-bdadd1bf-6dbc-4be6-9110-d68f05965613.png)
+
 # 7)RSA_ALGORITHM
 # Output:
 ![image](https://user-images.githubusercontent.com/113974992/211566667-ec64d55c-37fa-4bdc-bfbf-64d679f2f119.png)
